@@ -9,6 +9,7 @@ public class DependencyManagement {
         String userString = scanner.next();
         System.out.println(StringUtils.isNumeric(userString));
         System.out.println(StringUtils.reverse(userString));
+        System.out.println(StringUtils.swapCase(userString));
 
     }
 }

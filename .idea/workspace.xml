@@ -11,10 +11,7 @@
       <change afterPath="$PROJECT_DIR$/../clayProjects/web-exercises.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../java_test/java_test.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../test/test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DependencyManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DependencyManagement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DependencyManagement.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DependencyManagement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/DependencyManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DependencyManagement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +46,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="DependencyManagement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DependencyManagement" />
@@ -82,7 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1655651645508</updated>
-      <workItem from="1655651650374" duration="1282000" />
+      <workItem from="1655651650374" duration="1886000" />
     </task>
     <servers />
   </component>
